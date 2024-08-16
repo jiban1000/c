@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+}
+
+input{
+    background-color: aqua;
+}
+select{
+    background-color: blanchedalmond;
+}
+img{
+    background: orange;
+}
+textarea{
+    background-color: blueviolet;
+}
+table{
+    height: 20px;
+    width: 30 px;
+    border-style: solid;
+    font-style: normal; 
+    background-color: azure;
+}
+h1{
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+    padding-inline-end: 20px;
+    border-style: dashed;
+    border-radius: 300px;
+}
